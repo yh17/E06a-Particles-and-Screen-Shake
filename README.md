@@ -1,5 +1,7 @@
 # E06a-Particles-and-Screen-Shake
 
+Some effect and Screen Shake.
+
 As with other exercises, Fork and Clone this repository.
 
 This exercise is an opportunity to experiment with the Particles2D node in Godot and to give you a script with which you can implement screen shake.
